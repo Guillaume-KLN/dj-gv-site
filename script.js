@@ -1,5 +1,5 @@
 /* =========================================================
-   DJ G&V — Interactions
+   GuillaumEvent — Interactions
    Vanilla JS, sans dépendance. Performant et accessible.
    - Année footer
    - Header qui s'opacifie au scroll
