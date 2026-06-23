@@ -5,7 +5,7 @@
 
 backend:
   name: github
-  repo: guillaume-KLN/dj-gv-site   # ton dépôt GitHub
+  repo: guillaume-KLN/GuillaumEvent   # ton dépôt GitHub
   branch: main
   # base_url = adresse de ton site en ligne (sert à l'authentification)
   base_url: https://dj-gv.netlify.app
